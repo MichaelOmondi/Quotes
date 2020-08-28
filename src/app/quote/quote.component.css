@@ -1,0 +1,38 @@
+#show-more{
+    float: right;
+    margin: 10px;
+}
+
+.header-title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-weight: bold;
+}
+
+.cards{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card-title{
+    font-family: 'Kaushan Script', cursive;
+}
+
+.card-message{
+    font-family: 'Gabriela', serif;
+}
+
+.hr{
+    background: white;
+}
+
+.card-text{
+    font-style: italic;
+    color: greenyellow;
+    font-family: 'Gabriela', serif;
+}
+
+#background{
+    background-color: black;
+    height: auto;
+    padding-bottom: 10px;
+}
