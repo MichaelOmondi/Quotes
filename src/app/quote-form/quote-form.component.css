@@ -3,11 +3,11 @@
 }
 
 #form-cont{
-    background-color: rgba(0, 0, 0, .4);
+    background-color: rgba(0, 0, 0, 0.178);
     padding: 10px;
 }
 
 .inputStyling{
     background: transparent;
-    color: #ffffff;
+    color: #160303;
 }

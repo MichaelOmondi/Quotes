@@ -27,12 +27,12 @@
 
 .card-text{
     font-style: italic;
-    color: greenyellow;
+    color: blue;
     font-family: 'Gabriela', serif;
 }
 
 #background{
-    background-color: black;
+    background-image: url(/images/);
     height: auto;
     padding-bottom: 10px;
 }
