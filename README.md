@@ -7,7 +7,7 @@
 An agular app that displays quotes, and allows the user to input new favourite quote, like, dislike and delete the quote
 
 ## Live Page
-https://michaelomondi.github.io/Quotes/.
+https://michaelomondi.github.io/Quotes/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
