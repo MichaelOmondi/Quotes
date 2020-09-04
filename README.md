@@ -51,7 +51,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Some functionality did not work as expected
 
 ## Contact Information
-In case of any query, feel free to reach me via e-mail omondimike11@gmail.com
+In case of any  query, feel free to reach me via e-mail omondimike11@gmail.com
 
 ## License
 * MIT License:  
